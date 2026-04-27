@@ -59,9 +59,9 @@ AI Engineer fresher with hands-on project experience in Python, RAG, LangChain, 
       <img src="https://img.shields.io/badge/Style-Product_Minded-14B8A6?style=flat-square" alt="Product minded" />
     </td>
     <td align="center" width="220">
-      <b>Availability</b><br />
-      <sub>India, IST UTC+05:30</sub><br /><br />
-      <a href="https://time.is/India"><img src="https://img.shields.io/badge/Clock-IST_Time-0A84FF?style=flat-square" alt="IST time" /></a>
+      <b>Role Target</b><br />
+      <sub>AI Engineer, Python Developer</sub><br /><br />
+      <img src="https://img.shields.io/badge/Target-Fresher_Roles-22C55E?style=flat-square" alt="Fresher roles" />
     </td>
   </tr>
 </table>
