@@ -37,6 +37,7 @@ AI Engineer fresher with hands-on project experience in Python, RAG, LangChain, 
 
 | Project | What it proves | Stack |
 | --- | --- | --- |
+| [**SpendSmart AI Expense Intelligence System**](https://github.com/nreddie7702/SpendSmart-AI-Expense-Intelligence-System) | Turns expense data into spending insights with a recruiter-ready project README. | Python, Data Analysis, AI-ready Insights |
 | **AI YouTube Assistant** | Extracts YouTube content, chunks transcripts, retrieves context, and answers questions using a RAG pipeline. | Python, LangChain, OpenAI APIs, Vector Search |
 | **Expense Tracker** | Streamlit app for recording expenses, viewing summaries, and making personal finance tracking simple. | Python, Streamlit, Data Analysis |
 | **LMS Platform** | Full-stack learning management system with course workflows, user-facing pages, and backend structure. | React, FastAPI, PostgreSQL |
@@ -47,26 +48,26 @@ AI Engineer fresher with hands-on project experience in Python, RAG, LangChain, 
 
 <table>
   <tr>
-    <td align="center" width="240">
+    <td align="center" width="260">
       <sub><b>Local Time</b></sub><br />
       <a href="https://time.is/India">
-        <img src="https://img.shields.io/badge/IST-UTC%2B05%3A30-0A84FF?style=for-the-badge" alt="IST UTC+05:30" />
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=IST%20Time&query=%24.time&url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FKolkata&color=0A84FF" alt="Current IST time" />
       </a><br />
-      <sub>India timezone</sub>
+      <sub>India timezone, updated by badge cache</sub>
     </td>
-    <td align="center" width="240">
+    <td align="center" width="260">
       <sub><b>Primary Focus</b></sub><br />
       <img src="https://img.shields.io/badge/RAG-AI_Assistants-34C759?style=for-the-badge" alt="RAG AI Assistants" /><br />
       <sub>Retrieval + reasoning apps</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="240">
+    <td align="center" width="260">
       <sub><b>Product Stack</b></sub><br />
       <img src="https://img.shields.io/badge/FastAPI-React_PostgreSQL-111827?style=for-the-badge" alt="FastAPI React PostgreSQL" /><br />
       <sub>Backend, frontend, data</sub>
     </td>
-    <td align="center" width="240">
+    <td align="center" width="260">
       <sub><b>Career Status</b></sub><br />
       <img src="https://img.shields.io/badge/Open_To-AI_Engineer_Roles-FF9500?style=for-the-badge" alt="Open to AI Engineer roles" /><br />
       <sub>Fresher, project focused</sub>
