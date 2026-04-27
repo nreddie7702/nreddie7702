@@ -41,14 +41,18 @@ AI Engineer fresher with hands-on project experience in Python, RAG, LangChain, 
 | **Expense Tracker** | Streamlit app for recording expenses, viewing summaries, and making personal finance tracking simple. | Python, Streamlit, Data Analysis |
 | **LMS Platform** | Full-stack learning management system with course workflows, user-facing pages, and backend structure. | React, FastAPI, PostgreSQL |
 
-## GitHub Snapshot
+## Developer Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nreddie7702&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nreddie7702&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+![Focus](https://img.shields.io/badge/Focus-RAG_Applications-2563EB?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-FastAPI_%2B_PostgreSQL-14B8A6?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-React_Interfaces-0F172A?style=for-the-badge)
+![Status](https://img.shields.io/badge/Open_To-AI_Engineer_Roles-22C55E?style=for-the-badge)
 
-<img src="https://streak-stats.demolab.com?user=nreddie7702&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nreddie7702&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nreddie7702&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
