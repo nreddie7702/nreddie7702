@@ -9,7 +9,6 @@ I build practical AI products that connect clean backend systems, useful retriev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshmi_Narasimha_Reddy_Bolla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhareddy-ai/)
 [![Email](https://img.shields.io/badge/Email-narasimhabolla6789%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narasimhabolla6789@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nreddie7702-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nreddie7702)
-[![Local Time](https://img.shields.io/badge/Local_Time-IST_%28UTC%2B05%3A30%29-2563EB?style=for-the-badge&logo=clockify&logoColor=white)](https://time.is/India)
 
 </div>
 
@@ -42,14 +41,38 @@ AI Engineer fresher with hands-on project experience in Python, RAG, LangChain, 
 | **Expense Tracker** | Streamlit app for recording expenses, viewing summaries, and making personal finance tracking simple. | Python, Streamlit, Data Analysis |
 | **LMS Platform** | Full-stack learning management system with course workflows, user-facing pages, and backend structure. | React, FastAPI, PostgreSQL |
 
-## Developer Snapshot
+## iOS Style Developer Snapshot
 
 <div align="center">
 
-![Focus](https://img.shields.io/badge/Focus-RAG_Applications-2563EB?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-FastAPI_%2B_PostgreSQL-14B8A6?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Frontend-React_Interfaces-0F172A?style=for-the-badge)
-![Status](https://img.shields.io/badge/Open_To-AI_Engineer_Roles-22C55E?style=for-the-badge)
+<table>
+  <tr>
+    <td align="center" width="240">
+      <sub><b>Local Time</b></sub><br />
+      <a href="https://time.is/India">
+        <img src="https://img.shields.io/badge/IST-UTC%2B05%3A30-0A84FF?style=for-the-badge" alt="IST UTC+05:30" />
+      </a><br />
+      <sub>India timezone</sub>
+    </td>
+    <td align="center" width="240">
+      <sub><b>Primary Focus</b></sub><br />
+      <img src="https://img.shields.io/badge/RAG-AI_Assistants-34C759?style=for-the-badge" alt="RAG AI Assistants" /><br />
+      <sub>Retrieval + reasoning apps</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="240">
+      <sub><b>Product Stack</b></sub><br />
+      <img src="https://img.shields.io/badge/FastAPI-React_PostgreSQL-111827?style=for-the-badge" alt="FastAPI React PostgreSQL" /><br />
+      <sub>Backend, frontend, data</sub>
+    </td>
+    <td align="center" width="240">
+      <sub><b>Career Status</b></sub><br />
+      <img src="https://img.shields.io/badge/Open_To-AI_Engineer_Roles-FF9500?style=for-the-badge" alt="Open to AI Engineer roles" /><br />
+      <sub>Fresher, project focused</sub>
+    </td>
+  </tr>
+</table>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nreddie7702&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
 
