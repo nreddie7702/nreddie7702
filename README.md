@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm nreddie7702
+# Hi, I'm Narasimha Reddy
 
-### Building thoughtful, useful software with clean product thinking.
+### AI-focused developer building thoughtful software with clean product thinking.
 
 I enjoy turning ideas into practical systems: APIs, AI-assisted tools, planning engines, and polished user experiences. My work focuses on clear architecture, useful automation, and interfaces that feel simple even when the logic underneath is complex.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narasimha_Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhareddy-ai/)
 [![GitHub followers](https://img.shields.io/github/followers/nreddie7702?style=for-the-badge&logo=github&color=111827&labelColor=ffffff)](https://github.com/nreddie7702)
 [![Profile views](https://komarev.com/ghpvc/?username=nreddie7702&style=for-the-badge&color=2563eb)](https://github.com/nreddie7702)
 
@@ -63,5 +64,7 @@ I am focused on building professional software that is useful, readable, and eas
 <div align="center">
 
 ### Let's build software that is clear, capable, and genuinely useful.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhareddy-ai/)
 
 </div>
