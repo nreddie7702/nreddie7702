@@ -42,42 +42,42 @@ AI Engineer fresher with hands-on project experience in Python, RAG, LangChain, 
 | **Expense Tracker** | Streamlit app for recording expenses, viewing summaries, and making personal finance tracking simple. | Python, Streamlit, Data Analysis |
 | **LMS Platform** | Full-stack learning management system with course workflows, user-facing pages, and backend structure. | React, FastAPI, PostgreSQL |
 
-## iOS Style Developer Snapshot
+## Recruiter Snapshot
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="260">
-      <sub><b>Local Time</b></sub><br />
-      <a href="https://time.is/India">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=IST%20Time&query=%24.time&url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FKolkata&color=0A84FF" alt="Current IST time" />
-      </a><br />
-      <sub>India timezone, updated by badge cache</sub>
+    <td align="center" width="220">
+      <b>AI Focus</b><br />
+      <sub>RAG apps, assistants, OpenAI APIs</sub><br /><br />
+      <img src="https://img.shields.io/badge/AI-RAG_%2B_LangChain-2563EB?style=flat-square" alt="AI focus" />
     </td>
-    <td align="center" width="260">
-      <sub><b>Primary Focus</b></sub><br />
-      <img src="https://img.shields.io/badge/RAG-AI_Assistants-34C759?style=for-the-badge" alt="RAG AI Assistants" /><br />
-      <sub>Retrieval + reasoning apps</sub>
+    <td align="center" width="220">
+      <b>Build Style</b><br />
+      <sub>API-first, clean UI, useful workflows</sub><br /><br />
+      <img src="https://img.shields.io/badge/Style-Product_Minded-14B8A6?style=flat-square" alt="Product minded" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="260">
-      <sub><b>Product Stack</b></sub><br />
-      <img src="https://img.shields.io/badge/FastAPI-React_PostgreSQL-111827?style=for-the-badge" alt="FastAPI React PostgreSQL" /><br />
-      <sub>Backend, frontend, data</sub>
-    </td>
-    <td align="center" width="260">
-      <sub><b>Career Status</b></sub><br />
-      <img src="https://img.shields.io/badge/Open_To-AI_Engineer_Roles-FF9500?style=for-the-badge" alt="Open to AI Engineer roles" /><br />
-      <sub>Fresher, project focused</sub>
+    <td align="center" width="220">
+      <b>Availability</b><br />
+      <sub>India, IST UTC+05:30</sub><br /><br />
+      <a href="https://time.is/India"><img src="https://img.shields.io/badge/Clock-IST_Time-0A84FF?style=flat-square" alt="IST time" /></a>
     </td>
   </tr>
 </table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nreddie7702&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+<table>
+  <tr>
+    <td align="center" width="330">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nreddie7702&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+    </td>
+    <td align="center" width="330">
+      <img src="https://github-readme-stats.vercel.app/api?username=nreddie7702&show_icons=true&hide=stars,issues&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile summary" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nreddie7702&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nreddie7702&theme=github-compact&hide_border=true&area=true&height=250" alt="GitHub activity graph" />
 
 </div>
 
