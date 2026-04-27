@@ -9,6 +9,7 @@ I build practical AI products that connect clean backend systems, useful retriev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshmi_Narasimha_Reddy_Bolla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhareddy-ai/)
 [![Email](https://img.shields.io/badge/Email-narasimhabolla6789%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narasimhabolla6789@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nreddie7702-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nreddie7702)
+[![Local Time](https://img.shields.io/badge/Local_Time-IST_%28UTC%2B05%3A30%29-2563EB?style=for-the-badge&logo=clockify&logoColor=white)](https://time.is/India)
 
 </div>
 
