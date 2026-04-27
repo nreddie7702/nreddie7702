@@ -1,70 +1,71 @@
 <div align="center">
 
-# Hi, I'm Narasimha Reddy
+# Lakshmi Narasimha Reddy Bolla
 
-### AI-focused developer building thoughtful software with clean product thinking.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=760&lines=AI+Engineer+%28Fresher%29;Building+RAG+apps%2C+FastAPI+backends%2C+and+React+interfaces;Python+%7C+LangChain+%7C+OpenAI+APIs+%7C+PostgreSQL" alt="Typing SVG" />
 
-I enjoy turning ideas into practical systems: APIs, AI-assisted tools, planning engines, and polished user experiences. My work focuses on clear architecture, useful automation, and interfaces that feel simple even when the logic underneath is complex.
+I build practical AI products that connect clean backend systems, useful retrieval pipelines, and simple interfaces. My current focus is RAG applications, API-first AI tools, and full-stack products that solve clear user problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narasimha_Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhareddy-ai/)
-[![GitHub followers](https://img.shields.io/github/followers/nreddie7702?style=for-the-badge&logo=github&color=111827&labelColor=ffffff)](https://github.com/nreddie7702)
-[![Profile views](https://komarev.com/ghpvc/?username=nreddie7702&style=for-the-badge&color=2563eb)](https://github.com/nreddie7702)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshmi_Narasimha_Reddy_Bolla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhareddy-ai/)
+[![Email](https://img.shields.io/badge/Email-narasimhabolla6789%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narasimhabolla6789@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nreddie7702-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nreddie7702)
 
 </div>
 
 ---
 
-## What I Build
+## About
 
-- Product-ready web experiences with a strong UI/UX foundation
-- Backend APIs with clean, maintainable service boundaries
-- AI-powered systems for planning, analysis, and decision support
-- Data-driven tools that make complex information easier to act on
+AI Engineer fresher with hands-on project experience in Python, RAG, LangChain, OpenAI APIs, FastAPI, React, PostgreSQL, and Streamlit. I care about building AI systems that are easy to test, explain, and use, from document/video understanding to full-stack learning platforms.
 
-## Featured Work
-
-| Project | Focus | Highlights |
-| --- | --- | --- |
-| [SpendSmart AI Expense Intelligence System](https://github.com/nreddie7702/SpendSmart-AI-Expense-Intelligence-System) | AI + finance | Expense intelligence, analysis workflows, decision support |
-| [Agora Debate Platform](https://github.com/nreddie7702/agora-debate-platform) | Product platform | Debate workflows, structured interaction, user-centered experience |
-| [Insurance Policy API](https://github.com/nreddie7702/insurance-policy-api) | Backend API | Policy data modeling, API structure, service logic |
-| [CGGP Travel Itinerary Optimization](https://github.com/nreddie7702/Constraint-Grounded-Generative-Planning-CGGP-Framework-For-Intelligent-Travel-Itinerary-Optimization) | AI planning | Constraint-grounded itinerary optimization and generative planning |
-
-## Tech Toolbox
+## Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Systems-2563EB?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-14B8A6?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=10B981)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=22C55E)
+![OpenAI](https://img.shields.io/badge/OpenAI_APIs-111827?style=for-the-badge&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Basics-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 </div>
 
-## Current Direction
+## Featured Projects
 
-I am focused on building professional software that is useful, readable, and easy to improve. I care about the full path from idea to interface: the data model, the logic, the user flow, and the small details that make a product feel reliable.
+| Project | What it proves | Stack |
+| --- | --- | --- |
+| **AI YouTube Assistant** | Extracts YouTube content, chunks transcripts, retrieves context, and answers questions using a RAG pipeline. | Python, LangChain, OpenAI APIs, Vector Search |
+| **Expense Tracker** | Streamlit app for recording expenses, viewing summaries, and making personal finance tracking simple. | Python, Streamlit, Data Analysis |
+| **LMS Platform** | Full-stack learning management system with course workflows, user-facing pages, and backend structure. | React, FastAPI, PostgreSQL |
 
 ## GitHub Snapshot
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nreddie7702&show_icons=true&hide_border=true&theme=default&rank_icon=github)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nreddie7702&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nreddie7702&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nreddie7702&layout=compact&hide_border=true&theme=default)
+<img src="https://streak-stats.demolab.com?user=nreddie7702&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
----
+## Currently Improving
+
+- Building stronger RAG pipelines with better chunking, retrieval, and evaluation
+- Improving FastAPI + PostgreSQL backend design
+- Creating recruiter-ready project documentation and demos
+- Practicing production basics: environment variables, API structure, logging, and deployment
+
+## Contact
+
+I am open to AI Engineer, Python Developer, and Full-Stack AI fresher opportunities.
 
 <div align="center">
 
-### Let's build software that is clear, capable, and genuinely useful.
-
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narasimhabolla6789@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhareddy-ai/)
 
 </div>
